@@ -1,0 +1,23 @@
+$bg: #f8f2e4;
+
+@mixin f300 {
+    font-family: "MullerLight", sans-serif;
+    font-weight: 300;
+}
+@mixin f400 {
+    font-family: "MullerRegular", sans-serif;
+    font-weight: 400;
+}
+@mixin f400italic {
+    font-family: "Muller Regular Italic", sans-serif;
+    font-weight: 400;
+}
+
+@mixin f500 {
+    font-family: "MullerMedium", sans-serif;
+    font-weight: 500;
+}
+@mixin f700 {
+    font-family: "MullerBold", sans-serif;
+    font-weight: 700;
+}
